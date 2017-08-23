@@ -1,0 +1,12 @@
+C:\Users\tfeldiorean\Downloads\Tema_C#\Test1\Test1\bin\Debug\geckodriver.exe
+C:\Users\tfeldiorean\Downloads\Tema_C#\Test1\Test1\bin\Debug\Test1.dll
+C:\Users\tfeldiorean\Downloads\Tema_C#\Test1\Test1\bin\Debug\Test1.pdb
+C:\Users\tfeldiorean\Downloads\Tema_C#\Test1\Test1\bin\Debug\nunit.framework.dll
+C:\Users\tfeldiorean\Downloads\Tema_C#\Test1\Test1\bin\Debug\WebDriver.dll
+C:\Users\tfeldiorean\Downloads\Tema_C#\Test1\Test1\bin\Debug\WebDriver.Support.dll
+C:\Users\tfeldiorean\Downloads\Tema_C#\Test1\Test1\bin\Debug\nunit.framework.xml
+C:\Users\tfeldiorean\Downloads\Tema_C#\Test1\Test1\bin\Debug\WebDriver.xml
+C:\Users\tfeldiorean\Downloads\Tema_C#\Test1\Test1\bin\Debug\WebDriver.Support.xml
+C:\Users\tfeldiorean\Downloads\Tema_C#\Test1\Test1\obj\Debug\TemaC.csprojResolveAssemblyReference.cache
+C:\Users\tfeldiorean\Downloads\Tema_C#\Test1\Test1\obj\Debug\Test1.dll
+C:\Users\tfeldiorean\Downloads\Tema_C#\Test1\Test1\obj\Debug\Test1.pdb
